@@ -60,14 +60,14 @@
   }
   
   .App-Noon  {
-    background-color: #0C7AC0;
+    background-color: #276A64;
     color: white;
     min-height: 100vh;
     .key {
-      background-color: #FFA588;
+      background-color: #FAC760;
     }
     .header-title {
-      background-color: #FFA588;
+      background-color: #FAC760;
     }
     .nav-option {
       color: white;

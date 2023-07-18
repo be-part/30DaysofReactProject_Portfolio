@@ -27,7 +27,6 @@ const CountryGenerator = () => {
 
 
   const formatLanguages = (country) => {
-    console.log(country.languages)
     if (country.languages.length === 1) {
       return country.languages[0]
     } else {

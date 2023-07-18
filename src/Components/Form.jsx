@@ -59,7 +59,7 @@ const Form = () => {
     if (Object.keys(errors).length === 0 && submitting) {
       
     }
-  }, [errors]);
+  }, [errors, submitting]);
 
   return (
     <div className="wrapper">
@@ -92,7 +92,7 @@ const Form = () => {
       <div className="profile-card" style={{borderColor: inputFields.favColour}}>
         <p><span className="bold" style={{color: inputFields.favColour}}>Name:</span> {inputFields.firstName} {inputFields.lastName}</p>
         <p><span className="bold" style={{color: inputFields.favColour}}>Username:</span> {inputFields.username}</p>
-        <img className="profile-card-image" src={inputFields.imageUrl}></img>
+        <img className="profile-card-image" src={inputFields.imageUrl} alt="uploaded by user"></img>
       </div>
       </div>
     ) : <p className="explanation">Submit your details to get a personalised profile card:</p>}

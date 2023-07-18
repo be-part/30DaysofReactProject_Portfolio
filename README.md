@@ -1,8 +1,8 @@
-# 30DaysOfReact Project Portfolio
+# 30DaysOfReact Project Portfolio :jigsaw:
 
 ## Intro
 
-This is a react app to practise and consolidate my React and JavaScript skills. The mini apps in this project cover the skills from Days 01-18 in the #30 Days of React Challenge.
+This is a front-end app to practise and consolidate my React and JavaScript skills. The mini apps in this project cover the skills from Days 01-18 in the #30 Days of React Challenge.
 
 ### Skills recapped and covered:
 

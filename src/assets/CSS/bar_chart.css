@@ -1,0 +1,26 @@
+
+.single-country {
+    display:grid;
+    column-gap: 10px;
+    row-gap: 10px;
+    grid-template-columns: 300px 600px 300px;
+    justify-content: space-evenly;
+    margin: 5px;
+  }
+  
+  .bar-chart {
+    height: 50px;
+    background-color: orangered;
+    border-radius: 4px;
+  }
+  
+  .country-info {
+    margin: 5px;
+    font-size: x-large;
+    font-weight: bold;
+  }
+  
+  .bar-title {
+    font-size: 35px;
+  
+  }

@@ -1,0 +1,28 @@
+.nav {
+    border:1px solid #a7abb3;
+    border-width:1px 0;
+    list-style:none;
+    text-align:center;
+    margin: 5px;
+  }
+  
+  .nav-option {
+    padding: 10px;
+    font-size: 22px;
+    font-weight: 400;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .nav-style {
+    padding: 10px;
+    display:inline-block;
+    border-right: 2px solid #a7abb3;
+  
+  }
+  
+  .nav-style-last {
+    padding: 10px;
+    display:inline-block;
+  }
+  

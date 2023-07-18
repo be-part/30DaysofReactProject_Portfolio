@@ -1,0 +1,15 @@
+.event-text {
+    font-size: 35px;
+  }
+  
+  .moving-box {
+    background-color: rgb(247, 214, 31);
+    border-radius: 4px;
+    position: absolute;
+    width: 400px;
+    height: 80px;
+    font-size: xx-large;
+    padding: 10px;
+    left: 0px;
+    right: 0px;
+  }

@@ -1,0 +1,66 @@
+.contact-form {
+    background-color: #9dd2df;
+    color: black;
+    border-radius: 8px;
+    margin-top: 15px;
+    margin-bottom: 15px; 
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.error {
+    color: rgb(230, 98, 10);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.form-label {
+    font-size: 25px;
+    margin: 8px;
+}
+
+.form input {
+    font-size: 25px;
+    border-radius: 8px;
+    border-style: none;
+    height: 40px;
+    margin: 8px;
+    padding: 10px;
+}
+
+.form input::placeholder {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.profile-card {
+    border-style:solid;
+    border-width: 6px;
+    border-radius: 8px;
+    width: 400px;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.profile-card-image {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.profile-card-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+}

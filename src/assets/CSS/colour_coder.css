@@ -1,0 +1,24 @@
+.colour-coder-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .key {
+    text-align: left;
+    line-height: 1.5;
+    font-size: larger;
+    background-color:#61dbfb;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 8px;
+  }
+  
+  .key-title {
+    font-weight: bold;
+  }
+  

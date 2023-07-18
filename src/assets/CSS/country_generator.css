@@ -1,0 +1,9 @@
+.country-container {
+    box-shadow: 0 0 5px #494949;
+    padding: 10px;
+    margin: 5px;
+    height: auto;
+    width: 50%;
+    border-radius: 4px;
+    font-size:x-large;
+  }

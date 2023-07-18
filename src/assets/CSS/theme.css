@@ -1,0 +1,116 @@
+.theme-setter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+.theme-input {
+    margin: 5px;
+    width: 100px;
+    height: 40px;
+    font-size:x-large;
+    text-align: center;
+  }
+  
+  .App-Light  {
+    background-color: white;
+    color: black;
+    min-height: 100vh;
+    .key {
+      background-color: #61dbfb;
+    }
+    .header-title {
+      background-color: #61dbfb;
+    }
+    .nav-option {
+      color: black;
+    }
+  }
+  
+  .App-Dark  {
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+    .key {
+      background-color: #253c86;
+    }
+    .header-title {
+      background-color: #253c86;
+    }
+    .nav-option {
+      color: white;
+    }
+  }
+  
+  .App-Morning  {
+    background-color: #73839D;
+    color: rgb(0, 0, 0);
+    min-height: 100vh;
+    .key {
+      background-color: #ABA195;
+    }
+    .header-title {
+      background-color: #ABA195;
+    }
+    .nav-option {
+      color: black;
+    }
+  }
+  
+  .App-Noon  {
+    background-color: #0C7AC0;
+    color: white;
+    min-height: 100vh;
+    .key {
+      background-color: #FFA588;
+    }
+    .header-title {
+      background-color: #FFA588;
+    }
+    .nav-option {
+      color: white;
+    }
+  }
+  
+  .App-Evening  {
+    background-color: #B47489;
+    color: rgb(0, 0, 0);
+    min-height: 100vh;
+    .key {
+      background-color: #2E2552;
+    }
+    .header-title {
+      background-color: #2E2552;
+    }
+    .nav-option {
+      color: white;
+    }
+  }
+  
+  .App-Night  {
+    background-color: #121122;
+    color: white;
+    min-height: 100vh;
+    .key {
+      background-color: #0F0E14;
+    }
+    .header-title {
+      background-color: #0F0E14;
+    }
+    .nav-option {
+      color: white;
+    }
+  }
+  
+  .theme-btn {
+    width: 80px;
+    height: 30px;
+    margin: 5px;
+    font-size: medium;
+  }
+  
+  .theme-text {
+    font-size: larger;
+  }

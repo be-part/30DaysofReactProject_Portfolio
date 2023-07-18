@@ -1,4 +1,6 @@
 .season-image {
     border-radius: 6px;
     margin: 5px;
+    width: 800px;
+    height: auto;
   }

@@ -1,7 +1,7 @@
 const Button = () =>  {
      
     return <>
-     <button className="subscribe-btn">Subscribe</button>
+     <button className="subscribe-btn" disabled>Subscribe</button>
      </>
 }
    

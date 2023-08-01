@@ -4,6 +4,9 @@
 
 This is a front-end app to practise and consolidate my React and JavaScript skills. The mini apps in this project cover the skills from Days 01-18 in the #30 Days of React Challenge.
 
+## Live Version:
+Hosted: https://main--30-days-of-react-portfolio.netlify.app/  
+
 ### Skills recapped and covered:
 
 * Setting up a React app, including using create-react-app and forming the files and folders manually
